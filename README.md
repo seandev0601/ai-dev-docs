@@ -76,6 +76,6 @@
 本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 文件
 
 ## 聯絡方式
-- 專案負責人：[您的姓名]
-- Email：[您的電子郵件]
-- GitHub：[您的 GitHub 帳號] 
+- 專案負責人：Sean Chao
+- Email：seanbopo@gmail.com
+- GitHub：seandev0601 
